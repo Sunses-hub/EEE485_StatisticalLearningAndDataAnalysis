@@ -2,7 +2,10 @@
 
 Author : Mehmet Berk Şahin 
 
-This is a term project of EEE 485 - Statistical Learning and Data Analytics course, which is given in Bilkent University. Here are some useful material : 
+This is a term project of EEE 485 - Statistical Learning and Data Analytics course, which is given in Bilkent University. 
+Three machine learning algorithms were implemented from scratch to predict the results of the soccer games correctly. These algorithms are Principal Component Analysis, Logistic Regression, and Feed-forward Neural Network. Python and NumPy were used in the design. 
+
+Here are some useful material : 
 
 1. You can find the report at Report.pdf. 
 2. Source code is code.py. 
